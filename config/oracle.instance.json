@@ -1,0 +1,9 @@
+[
+    {
+		"name" : "Local Oracle Instance",
+		"host" : "192.168.58.130",
+		"user" : "system",
+		"passwd" : "newrelic",
+		"sid" : "newrelic"
+    }
+]
